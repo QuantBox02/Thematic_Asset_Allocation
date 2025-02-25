@@ -60,6 +60,8 @@ This project leverages NLP techniques to analyze financial news headlines, extra
 ## Usage
 
 ### Web Scraper & News Aggregation
+![image](https://github.com/user-attachments/assets/827af57e-eaa4-45a4-99b9-00f50ad68ace)
+
 
 - The web scraper uses Selenium and APScheduler to periodically fetch headlines from Finviz.
 - Run the scraper:
@@ -68,6 +70,11 @@ This project leverages NLP techniques to analyze financial news headlines, extra
   ```
 
 ### NLP Analysis & Portfolio Construction
+![image](https://github.com/user-attachments/assets/72cd34a4-6ad2-480b-b253-f998350bcdc9)
+
+<img width="525" alt="image" src="https://github.com/user-attachments/assets/ab4e31da-b590-41f3-8203-951de613a25a" />
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/83b0b1f9-1ff6-42d9-883c-6df275ac7322" />
+![image](https://github.com/user-attachments/assets/f75cbcc1-710f-46c1-af2c-1d5c2546a410)
 
 - The NLP pipeline extracts sentiment, sector, and target companies from headlines.
 - The thematic portfolio is built using aggregated theme scores and real-time market data.
@@ -77,6 +84,10 @@ This project leverages NLP techniques to analyze financial news headlines, extra
   ```
 
 ### Data Visualization
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/cdb8988a-88e7-413a-aadf-fe278e64a0a3" />
+<img width="323" alt="image" src="https://github.com/user-attachments/assets/0a18a7f3-6648-478a-9f03-20ad5ddecd73" />
+<img width="385" alt="image" src="https://github.com/user-attachments/assets/21c93cc9-6e4e-40e7-ad88-509cecc75cf0" />
+<img width="385" alt="image" src="https://github.com/user-attachments/assets/4fc5a28e-1cbb-45f3-8462-f07461802094" />
 
 - The project includes notebooks/scripts to generate diverging sentiment visualizations for sectors and securities.
 - For example, open and run the Jupyter Notebook:
