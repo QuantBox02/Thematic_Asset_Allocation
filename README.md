@@ -73,7 +73,6 @@ This project leverages NLP techniques to analyze financial news headlines, extra
 ![image](https://github.com/user-attachments/assets/72cd34a4-6ad2-480b-b253-f998350bcdc9)
 
 <img width="525" alt="image" src="https://github.com/user-attachments/assets/ab4e31da-b590-41f3-8203-951de613a25a" />
-<img width="952" alt="image" src="https://github.com/user-attachments/assets/83b0b1f9-1ff6-42d9-883c-6df275ac7322" />
 
 - The NLP pipeline extracts sentiment, sector, and target companies from headlines.
 - The thematic portfolio is built using aggregated theme scores and real-time market data.
