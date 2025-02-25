@@ -57,7 +57,6 @@ def update_news_df(existing_df):
     Scrapes headlines from various Finviz news pages (market, stock, ETF, crypto),
     labels them, and appends new (non-duplicate) headlines to the existing DataFrame.
     """
-    # Define the URLs and their corresponding news types
     urls = {
         'market': 'https://finviz.com/news.ashx',
         'stock': 'https://finviz.com/news.ashx?v=3',
