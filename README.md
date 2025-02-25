@@ -32,8 +32,8 @@ This project leverages NLP techniques to analyze financial news headlines, extra
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/thematic-portfolio-news.git
-   cd thematic-portfolio-news
+    git clone https://github.com/QuantBox02/Thematic_Asset_Allocation.git
+    cd Thematic_Asset_Allocation
    ```
 
 2. **Create a virtual environment and install dependencies:**
@@ -49,7 +49,7 @@ This project leverages NLP techniques to analyze financial news headlines, extra
    - torch
    - transformers
    - datasets
-   - yfinance
+   - ib_insync
    - cvxpy
    - apscheduler
    - selenium
@@ -99,10 +99,10 @@ This project leverages NLP techniques to analyze financial news headlines, extra
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check [issues page](https://github.com/yourusername/thematic-portfolio-news/issues).
+Feel free to check [issues page]([https://github.com/yourusername/thematic-portfolio-news/issues](https://github.com/QuantBox02/Thematic_Asset_Allocation/issues)).
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/QuantBox02/Thematic_Asset_Allocation/blob/main/LICENSE) file for details.
 
 
