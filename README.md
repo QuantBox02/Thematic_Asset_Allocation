@@ -84,10 +84,6 @@ This project leverages NLP techniques to analyze financial news headlines, extra
   ```
 
 ### Data Visualization
-<img width="952" alt="image" src="https://github.com/user-attachments/assets/cdb8988a-88e7-413a-aadf-fe278e64a0a3" />
-<img width="323" alt="image" src="https://github.com/user-attachments/assets/0a18a7f3-6648-478a-9f03-20ad5ddecd73" />
-<img width="385" alt="image" src="https://github.com/user-attachments/assets/21c93cc9-6e4e-40e7-ad88-509cecc75cf0" />
-<img width="385" alt="image" src="https://github.com/user-attachments/assets/4fc5a28e-1cbb-45f3-8462-f07461802094" />
 
 - The project includes notebooks/scripts to generate diverging sentiment visualizations for sectors and securities.
 - For example, open and run the Jupyter Notebook:
