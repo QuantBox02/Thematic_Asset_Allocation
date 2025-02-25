@@ -75,6 +75,7 @@ This project leverages NLP techniques to analyze financial news headlines, extra
 <img width="385" alt="image" src="https://github.com/user-attachments/assets/4411e4c7-1e23-4d9a-b70f-9ff6b574694d" />
 
 <img width="525" alt="image" src="https://github.com/user-attachments/assets/ab4e31da-b590-41f3-8203-951de613a25a" />
+
 <img width="427" alt="image" src="https://github.com/user-attachments/assets/2b52531a-b648-4eb6-a246-6feb15f60baa" />
 
 <img width="385" alt="image" src="https://github.com/user-attachments/assets/5cc2327b-80c0-4508-b599-d57475bed417" />
