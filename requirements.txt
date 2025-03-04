@@ -1,0 +1,12 @@
+pandas
+numpy
+torch
+transformers
+datasets
+ib_insync
+cvxpy
+apscheduler
+selenium
+matplotlib
+seaborn
+tqdm
