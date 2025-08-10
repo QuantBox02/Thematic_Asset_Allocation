@@ -83,7 +83,7 @@ def update_news_df(existing_df):
 
 def scheduled_job():
     '''
-    load existing data, scrape new headlines and retires up to max attempts if the fetch failed and new data returned
+    load existing data, scrape new headlines and retries up to max attempts if the fetch failed and new data returned
     '''
     try:
         existing_df = pd.read_csv('finviz_news.csv', parse_dates=['scrape_time'])
