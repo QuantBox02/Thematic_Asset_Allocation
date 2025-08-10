@@ -64,7 +64,7 @@ This project leverages NLP techniques to analyze financial news headlines, extra
 - The web scraper uses Selenium and APScheduler to periodically fetch headlines from Finviz.
 - Run the scraper:
   ```bash
-  python web_scraper.py
+  python Web_Scraper.py
   ```
 
 ### NLP Analysis & Portfolio Construction
@@ -82,17 +82,21 @@ This project leverages NLP techniques to analyze financial news headlines, extra
 - The thematic portfolio is built using aggregated theme scores and real-time market data.
 - To run the analysis and portfolio optimization:
   ```bash
-  python portfolio_analysis.py
+  python NLP_thematic.py
+  ```
+- To generate visualizations of thematic allocations:
+  ```bash
+  python Thematic_visualisation.py
   ```
 
 ### Data Visualization
 <img width="323" alt="image" src="https://github.com/user-attachments/assets/38a26195-8511-45cf-92a5-83f6a6f76608" />
 
 
-- The project includes notebooks/scripts to generate diverging sentiment visualizations for sectors and securities.
-- For example, open and run the Jupyter Notebook:
+- The project includes scripts to generate diverging sentiment visualizations for sectors and securities.
+- Run the visualization script:
   ```bash
-  jupyter notebook visualization.ipynb
+  python Thematic_visualisation.py
   ```
 
 ## Project Structure
@@ -100,10 +104,9 @@ This project leverages NLP techniques to analyze financial news headlines, extra
 ```
 ├── README.md
 ├── requirements.txt
-├── web_scraper.py         # Web scraper using Selenium & APScheduler
-├── portfolio_analysis.py  # NLP processing and portfolio optimization
-├── visualization.ipynb    # Jupyter Notebook for data visualization
-├── models/                # Directory to store fine-tuned models
+├── Web_Scraper.py         # Web scraper using Selenium & APScheduler
+├── NLP_thematic.py        # NLP processing and portfolio optimization
+├── Thematic_visualisation.py  # Script for data visualization
 └── data/                  # Directory for scraped/aggregated data (e.g., CSV files)
 ```
 
